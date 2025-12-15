@@ -16,7 +16,7 @@ public class ClaimController {
     @PostMapping("/process")
     public String processClaims() {
         try {
-            simulatorService.processClaims(); // ✅ correct usage
+            simulatorService.processClaims();
             return "Claims processed successfully.";
         } catch (IOException e) {
             e.printStackTrace();
