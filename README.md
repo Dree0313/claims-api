@@ -1,10 +1,3 @@
-Perfect! Let’s make a **professional, portfolio-ready `README.md`** for your `claims-api` project. I’ll structure it so that it’s **clear, technical, and shows off your understanding of the full workflow (Java → COBOL simulator → fixed-width files → H2 database)**.
-
-Here’s a ready-to-go example:
-
----
-
-````markdown
 # Claims API - Insurance Claims Processing Simulation
 
 **Project Type:** Java Spring Boot | REST API | COBOL Simulation  
